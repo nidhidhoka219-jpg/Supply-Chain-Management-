@@ -1,9 +1,11 @@
 # Supply-Chain-Management
 
 **Project Overview**
+
 This project analyzes supply chain performance using a dataset, a Power BI dashboard, and Python-based exploratory and predictive analytics. The goal is to uncover operational insights across demand, inventory, production, logistics, supplier quality, and profitability — and to translate those insights into a clear, business-ready view of supply chain efficiency.
 
 **Data Overview**
+
 The raw dataset contains 100 records and 24 columns, where each row represents one SKU. It captures the full supply chain journey, from product pricing and sales to manufacturing, shipping, and quality control.
 The dataset includes information across the following business areas:
 - **Product Information**: product type, SKU, price, and customer demographics  
@@ -39,7 +41,9 @@ These calculated fields helped identify the most profitable product categories, 
 - **Machine Learning**: Random Forest Regressor for sales prediction
 
 ## Power BI Dashboard
-An interactive Power BI dashboard was developed to provide a visual and intuitive understanding of supply chain performance.The dashboard enables stakeholders to quickly identify inefficiencies, compare performance across dimensions, and make informed operational decisions.Developed 12+ KPIs and designed a multi-page interactive dashboard (5 modules) covering Overview, Inventory, Logistics,Manufacturing, and Supplier performance  with slicers and filters, helping stakeholders drill down by region, product category, and transportation modes.  
+- An interactive Power BI dashboard was developed to provide a visual and intuitive understanding of supply chain performance.
+- The dashboard enables stakeholders to quickly identify inefficiencies, compare performance across dimensions, and make informed operational decisions.
+- Developed 12+ KPIs and designed a multi-page interactive dashboard (5 modules) covering Overview, Inventory, Logistics,Manufacturing, and Supplier performance  with slicers and filters, helping stakeholders drill down by region, product category, and transportation modes.  
 
 ## Conclusion
 This project demonstrates how data analytics can be leveraged to gain end-to-end visibility into supply chain operations. By combining data cleaning, feature engineering, visualization, and predictive modeling, the analysis highlights key inefficiencies and optimization opportunities.
