@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes supply chain performance using a dataset, a Power BI dashboard, and Python-based exploratory and predictive analytics. The goal is to uncover operational insights across demand, inventory, production, logistics, supplier quality, and profitability and to translate those insights into a clear, business ready view of supply chain efficiency.
+This project analyzes supply chain performance using a dataset, a Power BI dashboard, and Python based exploratory and predictive analytics. The goal is to uncover operational insights across demand, inventory, production, logistics, supplier quality, and profitability and to translate those insights into a clear, business ready view of supply chain efficiency.
 
 ## Data Overview
 
@@ -33,7 +33,7 @@ The analysis shows that:
 The objective is to convert raw supply chain data into actionable insights for leadership and operations teams by answering questions such as:
 - Which products, cities, and suppliers drive revenue and profit?
 - Where are inventory and demand mismatches happening?
-- Which logistics options are cost-efficient versus time-efficient?
+- Which logistics options are cost efficient versus time efficient?
 - Which suppliers need review based on defect rate and lead time?
 - How can the business improve service levels, reduce cost, and prevent stockouts?
 
@@ -58,11 +58,11 @@ These calculated fields helped identify the most profitable product categories, 
 ## Business interpretation
 - Skincare is the clear revenue leader and should remain a strategic category. Haircare contributes strongly as a secondary growth driver, while cosmetics still provides meaningful volume but trails in overall value creation.
 - Mumbai generates the most revenue, while Kolkata handles the highest sales volume. Delhi has relatively high sales volume compared with its revenue, which suggests a lower average order value or stronger price pressure.
-- The logistics network shows a classic cost-versus-speed trade-off. Route C and Sea transport are time-efficient or cost-efficient in different ways, but not both. Route A and Carrier B provide the best overall operational balance for most business use cases.
+- Route C and Sea transport are time efficient or cost efficient in different ways, but not both. Route A and Carrier B provide the best overall operational balance for most business use cases.
 
 ## Business suggestion
 - Prioritize stock availability, supplier reliability, and marketing support for **skincare**, then scale **haircare** as the next most valuable category. Review cosmetics pricing and assortment to improve margin contribution.
-- Use city-level assortment strategies:
+- Use city level assortment strategies:
   - Push **skincare** harder in **Kolkata** and **Chennai**
   - Push **haircare** in **Bangalore**
   - Keep **cosmetics** strong in **Mumbai** and **Delhi**
