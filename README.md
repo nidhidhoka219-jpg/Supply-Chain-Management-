@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project analyzes supply chain performance using a dataset, a Power BI dashboard, and Python-based exploratory and predictive analytics. The goal is to uncover operational insights across demand, inventory, production, logistics, supplier quality, and profitability — and to translate those insights into a clear, business-ready view of supply chain efficiency.
+This project analyzes supply chain performance using a dataset, a Power BI dashboard, and Python-based exploratory and predictive analytics. The goal is to uncover operational insights across demand, inventory, production, logistics, supplier quality, and profitability and to translate those insights into a clear, business ready view of supply chain efficiency.
 
 **Data Overview**
 
@@ -61,3 +61,6 @@ Overall, the project showcases strong capabilities in **data analysis, business 
 
 Nidhi D
 
+Aspiring Data Analyst 
+
+LinkedIn: https://www.linkedin.com/in/nidhi-dhoka-701743379
