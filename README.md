@@ -1,10 +1,10 @@
 # Supply-Chain-Management
 
-**Project Overview**
+## Project Overview
 
 This project analyzes supply chain performance using a dataset, a Power BI dashboard, and Python-based exploratory and predictive analytics. The goal is to uncover operational insights across demand, inventory, production, logistics, supplier quality, and profitability and to translate those insights into a clear, business ready view of supply chain efficiency.
 
-**Data Overview**
+## Data Overview
 
 The raw dataset contains 100 records and 24 columns, where each row represents one SKU. It captures the full supply chain journey, from product pricing and sales to manufacturing, shipping, and quality control.
 The dataset includes information across the following business areas:
@@ -15,7 +15,7 @@ The dataset includes information across the following business areas:
 - **Supplier & Manufacturing**: supplier name, location, production volumes, manufacturing lead time, manufacturing costs, and total costs  
 - **Quality Control**: inspection results and defect rates
 
-**Project Files**
+## Project Files
 - supply_chain_data.csv - Dataset
 - supply_chain_analysis.pbix - Power BI dashboard file
 - supply_chain_analysis.ipynb - Python analysis notebook
@@ -57,7 +57,7 @@ The insights derived can help businesses:
 Overall, the project showcases strong capabilities in **data analysis, business intelligence, and problem-solving within a real-world supply chain context**.
 
 
-**Author**
+## Author
 
 Nidhi D
 
