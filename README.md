@@ -24,7 +24,7 @@ The analysis shows that:
 - **Mumbai** leads revenue contribution, while **Kolkata** leads sales volume.
 - **Carrier B** handles the highest volume and is the fastest carrier on average.
 - **Route A** delivers the highest revenue and the lowest shipping cost, while **Route C** is the fastest but most expensive.
-- **Supplier 1** is the bestmperforming supplier on quality and lead time, while **Supplier 5** shows the highest defect rate.
+- **Supplier 1** is the best performing supplier on quality and lead time, while **Supplier 5** shows the highest defect rate.
 - Quality control is a concern because **41%** of records are marked **Pending** and **36%** are **Fail**.
 - Customer data has a segmentation gap because **31%** of records are labeled **Unknown**.
 - The notebook’s baseline Random Forest model is exploratory only; with this small dataset, it does **not** perform well enough for production forecasting.
