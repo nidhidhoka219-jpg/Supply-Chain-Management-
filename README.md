@@ -114,5 +114,4 @@ Nidhi D
 
 Aspiring Data Analyst 
 
-LinkedIn: www.linkedin.com/in/
-nidhidhoka
+LinkedIn: www.linkedin.com/in/nidhidhoka
